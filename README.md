@@ -7,3 +7,21 @@ If 10 people were to complete 10 tasks. everyone does everything and works less 
 Task: 
 Map out process flow of the whole day and tasks to be completed. 
 At the moment it just seems like everyone sees a task to be done, and does it in a reactive manner. If someone can see the full scope of what needs to be completed, then we can further delegate tasks. 
+
+Tasks to map out: 
+  tasks to be completed
+  timeframe
+  duration
+  number of staff required
+
+
+  directly mapped against resources provided at that given hour, refer to project tesco staff analysis
+
+
+
+ProcessFlow: Draw.io 
+Database: SQL Database on SSMS
+Language: 
+Input
+Dataclean
+Visualisation
